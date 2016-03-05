@@ -6,7 +6,7 @@ FreeCAD master file of the cut-out plans:
 An export from FreeCAD of the cut-out plans in "Flattened SVG" format:
    * Robot1b_flattened.svg
 
-The Microsoft format (printed by Inkscape) of the Flattened SVG format.  This is what you open in the Full Spectrum laser cutter softwar:
+The Microsoft format (printed by Inkscape) of the Flattened SVG format.  This is what you open in the Full Spectrum laser cutter software:
    * Robot1b_flattened.xps
 
 There is also a version of the cut-out plans with only the big shapes (excluding bolt and axle holes).
