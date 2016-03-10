@@ -1,4 +1,7 @@
-Herein are the design files for our robot chassis.
+Herein are the design files for our robot chassis.  These are also available on the laser cutter laptop at Robot Garden at:
+  * Libraries\Documents\My Documents\LPCMakerClass\Robot1
+  
+Please see the [Laser Cutter Class Manual](https://drive.google.com/file/d/0B0z8iTjN78OjWFJiWnEyOEs5bFk/edit?usp=sharing) and the [SBU page](http://www.robotgarden.org/workshop/safety-and-basic-use/) robot garden webpages for more information.
 
 FreeCAD master file of the cut-out plans:
    * Robot1b.FCStd
