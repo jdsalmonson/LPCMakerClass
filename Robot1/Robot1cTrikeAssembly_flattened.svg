@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="92.5518114853mm" height="56.9236502458mm" viewBox="0 0 92.5518114853 56.9236502458" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="DWire001" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="DWire001_w0000" d="M -13.4611968994 86.207942963 L -11.2611968994 86.207942963 L -11.2611968994 88.907942963 L 0.3388031006 88.907942963 L 0.3388031006 86.207942963 L 2.5388031006 86.207942963 L 2.5388031006 56.207942963 L 0.3388031006 56.207942963 L 0.3388031006 53.507942963 L -11.2611968994 53.507942963 L -11.2611968994 56.207942963 L -13.4611968994 56.207942963 L -13.4611968994 86.207942963 " stroke="#38fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Trike Side 2</title>
+</g>
+<g id="Rectangle" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="Rectangle_w0000" d="M -40.198266983 88.991882324 L -88.198266983 88.991882324 L -88.198266983 68.991882324 L -40.198266983 68.991882324 L -40.198266983 88.991882324 " stroke="#38fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Trike Base Rectangle</title>
+</g>
+<g id="Circle" transform="translate(89.105638,90.180079) scale(1,-1)">
+<circle cx="-56.848266983" cy="78.991882324" r="1.13" stroke="#42fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Front Wheel Hole Right</title>
+</g>
+<g id="Group" transform="translate(89.105638,90.180079) scale(1,-1)">
+<title>Trike Base Plate</title>
+</g>
+<g id="DWire002" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="DWire002_w0000" d="M -79.483833313 59.3669013977 L -79.483833313 49.3669013977 L -69.483833313 49.3669013977 L -79.483833313 59.3669013977 " stroke="#1fff08" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Brace 1</title>
+</g>
+<g id="Circle001" transform="translate(89.105638,90.180079) scale(1,-1)">
+<circle cx="-71.548266983" cy="78.991882324" r="1.13" stroke="#42fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none"/>
+<title>Front Wheel Hole Left</title>
+</g>
+<g id="Rectangle001" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="Rectangle001_w0000" d="M -47.198266983 84.991882324 L -44.198266983 84.991882324 L -44.198266983 72.991882324 L -47.198266983 72.991882324 L -47.198266983 84.991882324 " stroke="#42fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Right Trike Slot001</title>
+</g>
+<g id="Rectangle002" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="Rectangle002_w0000" d="M -84.198266983 84.991882324 L -81.198266983 84.991882324 L -81.198266983 72.991882324 L -84.198266983 72.991882324 L -84.198266983 84.991882324 " stroke="#42fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Left Trike Slot001</title>
+</g>
+<g id="DWire003" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="DWire003_w0000" d="M -60.006984711 44.4116249084 L -60.006984711 34.4116249084 L -50.006984711 34.4116249084 L -60.006984711 44.4116249084 " stroke="#1fff08" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Brace 2</title>
+</g>
+<g id="DWire004" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="DWire004_w0000" d="M -60.9875946045 59.1190757751 L -60.9875946045 49.1190757751 L -50.9875946045 49.1190757751 L -60.9875946045 59.1190757751 " stroke="#1fff08" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Brace 3</title>
+</g>
+<g id="DWire005" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="DWire005_w0000" d="M -79.327014923 44.1637992859 L -79.327014923 34.1637992859 L -69.327014923 34.1637992859 L -79.327014923 44.1637992859 " stroke="#1fff08" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Brace 4</title>
+</g>
+<g id="DWire" transform="translate(89.105638,90.180079) scale(1,-1)">
+<path id="DWire_w0000" d="M -35.3674621582 86.57270813 L -33.1674621582 86.57270813 L -33.1674621582 89.27270813 L -21.5674621582 89.27270813 L -21.5674621582 86.57270813 L -19.3674621582 86.57270813 L -19.3674621582 56.57270813 L -21.5674621582 56.57270813 L -21.5674621582 53.87270813 L -33.1674621582 53.87270813 L -33.1674621582 56.57270813 L -35.3674621582 56.57270813 L -35.3674621582 86.57270813 " stroke="#38fc29" stroke-width="0.35 px" style="stroke-width:0.35;stroke-miterlimit:4;stroke-dasharray:none;fill:none;fill-rule: evenodd "/>
+<title>Trike Side 1</title>
+</g>
+</svg>
