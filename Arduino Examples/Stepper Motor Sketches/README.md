@@ -4,3 +4,6 @@ The first four are nicely documented for learning. Sketches 4b-5b are what I use
 but with different variable and math. Feel free to try and change the variables to what is in tutorials 1-4.
 
 Andrew
+
+Here is the Fritzing diagram for breadboarding the stepper motor example:
+![Stepper motor wiring figure](stepper_to_arduino_fritz.PNG)
