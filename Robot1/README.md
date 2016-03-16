@@ -1,3 +1,6 @@
+Laser Cutter CAD files
+======================
+
 Herein are the design files for our robot chassis.  These are also available on the laser cutter laptop at Robot Garden at:
   * Libraries\Documents\My Documents\LPCMakerClass\Robot1
   
@@ -11,12 +14,22 @@ FreeCAD master file of the cut-out plans:
 An export from FreeCAD of the cut-out plans in "Flattened SVG" format:
    * Robot1c_flattened.svg
 
-(If available) The Microsoft format (printed by Inkscape) of the Flattened SVG format.  This is what you open in the Full Spectrum laser cutter software:
+The Microsoft format (printed by Inkscape) of the Flattened SVG format.  This is what you open in the Full Spectrum laser cutter software:
    * Robot1c_flattened.xps
 
 The files for just the nose ball trike assembly are:
  * Robot1cTrikeAssembly.FCStd
  * Robot1cTrikeAssembly_flattened.svg
+
+Arduino Sketches
+================
+
+Sketches for the testing an use of our robot:
+ * [Photoresistor2_to_HbridgeL293D](https://github.com/jdsalmonson/LPCMakerClass/tree/master/Robot1/Photoresistor2_to_HbridgeL293D) - Full sketch to run motors based on photoresistor levels, causing the robot to phototropically steer toward a flashlight. 
+ * [SimplePhotoresistorTest](https://github.com/jdsalmonson/LPCMakerClass/tree/master/Robot1/SimplePhotoresistorTest) - Simple test of the photoresistor circuit: writes the photoresistor voltage reading from analog pin A0 to the serial monitor.
+
+Wiring diagrams
+===============
 
 Also we have the Fritzing files for wiring this robot.  These include:
  * Robot1_H-Bridge_Wiring.fzz  - the Fritzing file for the basic wiring of the H-bridge
